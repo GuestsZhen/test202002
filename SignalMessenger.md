@@ -1,7 +1,7 @@
-<div align=right><img width="50" height="50" src="https://guestszhen.github.io/test202002/img/signal.png"/></div>
+
 # Signal Messenger Android 简易教程 
 系统要求：Android 4.4 或更高版本
-## 下载 Signal 
+## 下载 Signal  <div align=right><img width="50" height="50" src="https://guestszhen.github.io/test202002/img/signal.png"/></div>
 
 * google play 下载（需要翻墙及google账户）
 
