@@ -1,4 +1,4 @@
-# Signal Messenger Android 简易教程 <div align=right><img width="50" height="50" src="https://guestszhen.github.io/test202002/img/signal.png"/></div>
+# Signal Messenger Android 简易教程 <div align=right><img width="40" height="40" src="https://guestszhen.github.io/test202002/img/signal.png"/></div>
 系统要求：Android 4.4 或更高版本
 ## 下载 Signal  
 
@@ -66,3 +66,8 @@ Signal上的联系人会看到您所注册的Signal号码（你的电话号码�
 与其他 Signal 用户进行安全通信时，您会看到 Signal 信息。
 
  ![signal android_input](https://guestszhen.github.io/test202002/img/android_input_private.jpeg)
+
+
+## 信息发送图示
+ ![signal android_send](https://guestszhen.github.io/test202002/img/send.png)
+ 
