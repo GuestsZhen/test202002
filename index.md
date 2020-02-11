@@ -91,3 +91,26 @@ Signal上的联系人会看到您所注册的Signal号码（你的电话号码�
 # 设置和管理阅后即焚信息
 使用阅后即焚信息，计时器到点后，这条信息将从您的设备中消失。
  <img width="20" height="20" src="https://guestszhen.github.io/test202002/img/disappearing_countdown.gif"/> 每一条阅后即焚信息均附有一个倒计时图标，显示在信息气泡的底部。
+
+## 启用步骤：
+1.打开与联系人的聊天。
+2.点击联系人姓名或标题以查看选项。
+3.点击**阅后即焚信息**。
+4.将信息计时器设置为 5 秒到 1 周的任意时长。
+5.对话标题将包含一个计时器图标 <img width="20" height="20" src="https://guestszhen.github.io/test202002/img/disappearing_icon_enabled.png"/>。
+6.对话线程将包含已启用该功能的提醒。
+## 更改时间的步骤：
+1.打开与联系人的聊天。
+2.点击标题中的计时器图标 <img width="20" height="20" src="https://guestszhen.github.io/test202002/img/disappearing_icon_enabled.png"/>。
+3.滚动以选择新的信息时间。
+4.选择**确定**。
+5.对话线程中的提醒将显示新的阅后即焚信息时间。
+## 禁用步骤：
+1.打开与联系人的聊天。
+2.点击标题中的计时器图标 <img width="20" height="20" src="https://guestszhen.github.io/test202002/img/disappearing_icon_enabled.png"/>。
+3.一直滚动到顶部，再选择**关**。
+4.选择**确定**。
+5.对话标题将不包含计时器图标。
+6.对话线程将包含计时器已关闭的提醒 <img width="20" height="20" src="https://guestszhen.github.io/test202002/img/disappearing_icon_disabled.png"/>。
+7.更改之后发送的所有信息都不会消失。
+8.任何发送或接收的信息将不包含计时器图标。
