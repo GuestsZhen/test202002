@@ -1,12 +1,15 @@
 ![signal](https://guestszhen.github.io/test202002/signal.png)
 # Signal Messenger Android 简易教程
 系统要求：Android 4.4 或更高版本
-## 安装 Signal 
+## 下载 Signal 
 
-Signal 
 * google play 下载（需要翻墙及google账户）
 
 https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms
+
+* apkturbo 下载
+
+https://www.apkturbo.com/apps/signal-private-messenger/org.thoughtcrime.securesms
 
 * apkmirror 下载
 
