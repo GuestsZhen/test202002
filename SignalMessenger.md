@@ -1,4 +1,4 @@
-# Signal Messenger Android 简易教程 <div align=right><img width="40" height="40" src="https://guestszhen.github.io/test202002/img/signal.png"/></div>
+# Signal Messenger Android 简易教程 <img width="40" height="40" src="https://guestszhen.github.io/test202002/img/signal.png"/>
 系统要求：Android 4.4 或更高版本
 ## 下载 Signal  
 
@@ -46,7 +46,7 @@ Signal上的联系人会看到您所注册的Signal号码（你的电话号码�
 
 ## 如何编辑我的个人资料？
 
-在 Signal 中，点击您的个人资料头像<img src="https://guestszhen.github.io/test202002/img/profile_avatar.png" width="20" height="20">来查看设置。
+在 Signal 中，点击您的个人资料头像<img src="https://guestszhen.github.io/test202002/img/profile_avatar.png" width="20" height="20">来查看设置。 <img width="40" height="40" src="https://guestszhen.github.io/test202002/img/signal.png"/>
 1. 点击您的头像、名字或 Signal 号码。
 2. 点击头像或图像进行编辑。
 3. 点击个人资料名字进行编辑。
