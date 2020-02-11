@@ -82,4 +82,5 @@ Signal上的联系人会看到您所注册的Signal号码（你的电话号码�
 * 正在拨号 - 等待与联系人接通通话时。
 * 正在响铃 - 当联系人的手机在线并在响铃时。
 * 已连接 - 您的通话被接听后。
+
  ![signal android](https://guestszhen.github.io/test202002/img/android_call_screen.png)
