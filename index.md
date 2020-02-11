@@ -3,6 +3,7 @@
 ## 下载 Signal  
 
 * google play 下载（需要翻墙及google账户）
+
 [https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms)
 
 * apkturbo 下载
@@ -20,7 +21,7 @@
 ### 中国大陆可直接访问下载链接
 * pc6 下载 
 
-[http://www.pc6.com/az/719127.html](http://www.pc6.com/az/719127.html](http://www.pc6.com/az/719127.html](http://www.pc6.com/az/719127.html)
+[http://www.pc6.com/az/719127.html](http://www.pc6.com/az/719127.html)
 
 
 
@@ -45,7 +46,8 @@ Signal上的联系人会看到您所注册的Signal号码（你的电话号码�
 
 ## 如何编辑我的个人资料？
 
-在 Signal 中，点击您的个人资料头像 <img src="https://github.com/GuestsZhen/test202002/blob/master/img/profile_avatar.png" width="20" height="20"> 来查看设置。
+在 Signal 中，点击您的个人资料头像 <img src="https://github.com/GuestsZhen/test202002/blob/master/img/profile_avatar.png" width="20" height="20"> 
+来查看设置。
 1. 点击您的头像、名字或 Signal 号码。
 2. 点击头像或图像进行编辑。
 3. 点击个人资料名字进行编辑。
@@ -59,7 +61,9 @@ Signal上的联系人会看到您所注册的Signal号码（你的电话号码�
 
 # 发送信息
 
-在 Signal 中，点击撰写 <img src="https://github.com/GuestsZhen/test202002/blob/master/img/android_compose.png" width="20" height="20"> 来查看 Signal 联系人列表。
+在 Signal 中，点击撰写 
+<img src="https://github.com/GuestsZhen/test202002/blob/master/img/android_compose.png" width="20" height="20">
+来查看 Signal 联系人列表。
 选择联系人或输入号码，以打开对话。
 点击文本输入字段。
 与其他 Signal 用户进行安全通信时，您会看到 Signal 信息。
