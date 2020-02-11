@@ -46,7 +46,7 @@ Signal上的联系人会看到您所注册的Signal号码（你的电话号码�
 
 ## 如何编辑我的个人资料？
 
-在 Signal 中，点击您的个人资料头像 <img src="https://github.com/GuestsZhen/test202002/blob/master/img/profile_avatar.png" width="20" height="20"> 来查看设置。
+在 Signal 中，点击您的个人资料头像<img src="https://github.com/GuestsZhen/test202002/blob/master/img/profile_avatar.png" width="20" height="20">来查看设置。
 1. 点击您的头像、名字或 Signal 号码。
 2. 点击头像或图像进行编辑。
 3. 点击个人资料名字进行编辑。
@@ -60,7 +60,7 @@ Signal上的联系人会看到您所注册的Signal号码（你的电话号码�
 
 # 发送信息
 
-在 Signal 中，点击撰写 android_compose.png 来查看 Signal 联系人列表。
+在 Signal 中，点击撰写<img src="https://github.com/GuestsZhen/test202002/blob/master/img/android_compose.png" width="20" height="20">来查看 Signal 联系人列表。
 选择联系人或输入号码，以打开对话。
 点击文本输入字段。
 与其他 Signal 用户进行安全通信时，您会看到 Signal 信息。
@@ -71,3 +71,15 @@ Signal上的联系人会看到您所注册的Signal号码（你的电话号码�
 ## 信息发送图示
  ![signal android_send](https://guestszhen.github.io/test202002/img/send.png)
  
+# 语音或视频通话
+首次拨打或接听 Signal 通话时，系统将提示您授予“相机”和“麦克风”权限。
+
+1. 在 Signal 中，点击撰写<img src="https://github.com/GuestsZhen/test202002/blob/master/img/android_compose.png" width="20" height="20">以查看 Signal 联系人列表。
+2. 选择联系人或输入号码以打开对话。
+3. 点击电话加小锁图标<img src="https://github.com/GuestsZhen/test202002/blob/master/img/android_call_icon_private.png" width="20" height="20"> 。
+4. 对于视频通话，点击相机图标<img src="https://github.com/GuestsZhen/test202002/blob/master/img/android_video_icon.png" width="20" height="20">，以显示您这一方的视频。
+5. 您的通话屏幕将显示
+* 正在拨号 - 等待与联系人接通通话时。
+* 正在响铃 - 当联系人的手机在线并在响铃时。
+* 已连接 - 您的通话被接听后。
+ ![signal android](https://guestszhen.github.io/test202002/img/android_call_screen.png)
