@@ -18,10 +18,9 @@
 
 [https://apkpure.com/signal-private-messenger/org.thoughtcrime.securesms](https://apkpure.com/signal-private-messenger/org.thoughtcrime.securesms)
 
-### 中国大陆可直接访问下载链接
-* pc6 下载 
+* playes 下载 
 
-[http://www.pc6.com/az/719127.html](http://www.pc6.com/az/719127.html)
+[https://www.playes.net/28663-org-thoughtcrime-securesms.html](https://www.playes.net/28663-org-thoughtcrime-securesms.html)
 
 
 
